@@ -22,7 +22,6 @@ export const Card = styled.View`
   border-radius: 4px;
   height: 100%;
   position: absolute;
-  top: 380px;
 `;
 
 export const CardHeader = styled.View`
